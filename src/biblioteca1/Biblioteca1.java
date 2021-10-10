@@ -32,7 +32,7 @@ public class Biblioteca1{
         
         /*Libros.add(libro2);
         Revistas.add(resvista1);
-        Revistas.add(resvista2);
+        Revistas.add(resvista2); hola
         */
         Scanner sc = new Scanner(System.in);
         // IMPORTANTE PARA LECTURA DE LOS FICHEROS .TXT (instanceof)
